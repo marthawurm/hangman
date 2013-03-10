@@ -1,4 +1,4 @@
 hangman
 =======
 
-A game of Hangman done in Python
+A game of Hangman done in Python :)
